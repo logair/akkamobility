@@ -28,3 +28,5 @@ We plan to combine the power of open source hardware and low cost sensors with t
 - Translate instructions or develop better outreach material;
 - Ride one of our ready-installed bikes!
 
+### Contributors
+
