@@ -21,7 +21,7 @@ We plan to combine the power of open source hardware and low cost sensors with t
 
 ### How can you contribute? 
 - Install a device in your electric bike, so we can test it;
-- Check the [assembly instructions]() and build your own device to attach to your bike;
+- Check the [assembly instructions](instructions.md) and build your own device to attach to your bike;
 - Enhance the hardware design (electronics and case);
 - Help us develop an Android app to visualize data on the go;
 - Develop data visualizations and mapping alternatives;
