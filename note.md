@@ -90,7 +90,6 @@ Quelque soit notre origine, notre âge, notre condition physique, nous respirons
 * succesion d'image de 500ms 
 * zoom sur geneve
 
-
 Et si ?
 
 ### Solution
