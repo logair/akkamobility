@@ -86,11 +86,15 @@ est responsable :
 - et favorise les risques d’AVC chez les adultes
 
 Quelque soit notre origine, notre âge, notre condition physique, nous respirons tous le même air et sommes donc tous impactés par ce problème. 
+// parties video
+* succesion d'image de 500ms 
+* zoom sur geneve
+
 
 Et si ?
 
 ### Solution
-Collectes la donnee pour savoir/ou/agir
+Collectes la donnee pour savoir/ou/quand/agir
 * map
 #### collecte
 * point fixe
