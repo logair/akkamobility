@@ -1,5 +1,8 @@
 # Pitch 
 
+
+## Introduction
+
 ```Savez-vous qu’en Europe, il a été montré qu’environ 85 million de la population urbaine était exposée aux particules fines.```
 
 ```Quelque soit notre origine, notre âge, notre condition physique, nous respirons tous le même air et sommes donc tous impactés par sa qualite.```
@@ -8,19 +11,25 @@
 
 ```Et si on profitais du desir d'inventure des citozens pour collectees les donnes de maniere ludique et en nombre```
 
+```La qualite de l'air n'est pas visible a l'oeuil nu```
 ## La pollution de l’air est responsable : 
+
 * de maladies cardio-vasculaires ou respiratoires,
 * elle nuit au bon développement du système respiratoire chez les enfants, 
 * et favorise les risques d’AVC chez les adultes
 
+
 ## Et si ?
+
 
 ### Solution
 
 Collectes la donnee pour savoir/ou/quand/agir
 * map
 
+
 ### collecte
+
 * point fixe
 * point mobil
 * * bike
@@ -33,10 +42,15 @@ ce qu'on a deja...
 
 ## Concretement, comment ca fonctionne ?
 
-1.
-2.
-3.
-
+1. Obtenir le boitier
+* Achat
+* Pret
+* DIY / ateliers
+2. Installer notre application
+* En fonction de votre profil utilisateur une experience differentes vous est proposee
+3. Let's go collect data
+4. 
+```Grace a la donnee collectee, communautes et decideurs peuvent desormais agir
 
 ## events
 
@@ -50,6 +64,7 @@ Invitation par la ville de Geneve
 
 
 ### Chasse aux tresors VR
+
 * Permettre aux touristes de decouvrir les lieux insolite de la ville
 * Reunir les gamers pour les challenges de trophees
 
@@ -59,7 +74,7 @@ Invitation par la ville de Geneve
 les donnes hyperslocales toujours au service de votre collectivite en deployant a des points fixes autours des points d'interet (ecole/hopital/creches)
 
 
-#### Sensing mobility or Moving pins or X X X
+### Sensing mobility or Moving pins
 
 Notre programme de collection de donnees s'integre sur les difference tous les moyens de mobilite collection urbains
 * Velo
@@ -69,7 +84,9 @@ Notre programme de collection de donnees s'integre sur les difference tous les m
 * uber
 * livraison 
 
+
 ## slogan final
+
+```Voyant mieux l'invisible, permettre l'avancement```
+
 ```ensemble, constuisons/batisson, la geneve de demain```
-
-
