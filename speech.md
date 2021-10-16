@@ -50,7 +50,7 @@ ce qu'on a deja...
 * En fonction de votre profil utilisateur une experience differentes vous est proposee
 3. Let's go collect data
 4. 
-```Grace a la donnee collectee, communautes et decideurs peuvent desormais agir
+```Grace a la donnee collectee, communautes et decideurs peuvent desormais agir```
 
 ## events
 
