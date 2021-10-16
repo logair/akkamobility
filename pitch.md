@@ -9,6 +9,7 @@
 
 ```Quelque soit notre origine, notre âge, notre condition physique, nous respirons tous le même air et sommes donc tous impactés par sa qualite.```
 
+```Pouvoir identifier les endroits de pics de polluent pour agir de maniere cibler```
 
 ## Et si ?
 
@@ -41,6 +42,8 @@ Invitation par la ville de Geneve
 #### jeu 
 * chasser les endroits les plus polluer de geneve
 * chasser les endroits les moins polluer de geneve
+
+
 
 ### Influence
 
