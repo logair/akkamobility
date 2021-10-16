@@ -11,6 +11,8 @@
 
 ```Pouvoir identifier les endroits de pics de polluent pour agir de maniere cibler```
 
+```Et si on profitais du desir d'inventure des citozens pour collectees les donnes de maniere ludique et en nombre```
+
 ## Et si ?
 
 ### Solution
